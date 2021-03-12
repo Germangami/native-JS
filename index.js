@@ -1216,3 +1216,8 @@
 // calculator.read();
 // console.log(calculator.sum());
 // console.log(calculator.mul());
+
+
+function seyHi(){
+    alert('Privet')
+}
